@@ -1,5 +1,6 @@
 # Colab-Projects-link
 (AIML)
+
 Microsoft Stock Price Prediction : https://colab.research.google.com/drive/1ccekR_x3l5AAA4aV74LuCl0bSlb5ENNG?usp=sharing
 
 Inventory predictions : https://colab.research.google.com/drive/1JtOhKLEBkaM_67J0SY3aJNzMbY7JBVk4?usp=sharing
